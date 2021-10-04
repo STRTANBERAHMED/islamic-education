@@ -10,7 +10,7 @@ import './Navbar.css';
 const Navbar = () => {
     return (
         <div className="bar">
-            <Appbar bg="dark" expand="lg">
+            <Appbar bg="white" expand="lg">
                 <Container fluid>
                     <Appbar.Brand href="#"><h1 className="bar">Islamic Education</h1></Appbar.Brand>
                     <Appbar.Toggle aria-controls="navbarScroll" />

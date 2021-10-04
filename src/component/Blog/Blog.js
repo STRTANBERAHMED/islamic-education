@@ -2,8 +2,15 @@ import React from 'react';
 
 const Blog = () => {
     return (
-        <div>
-            <h1>this is blog</h1>
+        <div className="p-5">
+            <div className="text-center">
+                <h1>Learning How to Learn</h1>
+                <p>Condensed from over three million words, these conversations involve housewives and cabinet ministers, professors and assembly-line workers, on the subject of how traditional psychology can illuminate current human, social and spiritual problems. More than a hundred tales and extracts from Sufi lore, ranging from the eighth-century Hasan of Basra, to the modern Afghan poet Khalilullah Khalili, are woven into Shah’s narratives of how and why the Sufis learn, what they learn, and how spiritual understanding develops and deteriorates in all societies. Condensed   from   over   three   million   words,   these   conversations answer questions prompted by Shah’s sixteen books,   his   university   lectures   and   radio   and   television   programmes. He answers housewives and cabinet ministers, philosophy  professors  and  assembly-line  workers,  on  the  subjects of how traditional psychology can illuminate current human, social and spiritual problems. More than a hundred tales  and  extracts,  ranging  from  the  8th  century  Hasan  of  Basra  to  today’s  Ustad  Khalilullah  Khalili,  are  woven  into  Shah’s narratives of how and why the Sufis learn, what they learn, and how spiritual understanding may be developed, as well as how it inevitably deteriorates in all societies.Shah  draws  on  over  70,000  questions,  from  Afghanistan  and California, Delhi and Strasbourg; quotes Eastern parables of  Jesus,  the  ancient  classics  of  the  Sufis,  contemporary  encounters  with  teachers  and  students,  the  Mulla  Nasrudin  teaching-figure,    Omar    Khayyam.</p>
+            </div>
+            <div className="text-center">
+                <h1>Knowing  How to  Know</h1>
+                <p>We are all interested in spiritual, psychological and social questions, and particularly in our personal problems, but in order  to  understand  how  we  should  learn,  what  we  must  know, we must have information.The  first  important  principle  which  we  must  understand  is  that  there  are  two  pre-eminent  concepts;  one  is  inclusion  and the other is exclusion. Now this is extremely important – what  we  include  in  our  studies,  and  what  we  exclude  from  our studies.Although  this  concept  is  not  instantly  familiar  in  this  form  to  most  people,  they  can  usually  understand  that  it  is  necessary.  However  they  have  often  made  certain  mistakes.  These mistakes have been made by people who are studying higher things, and also by the culture in general.The   mistakes   arise   from   not   understanding   or   not   emphasising correctly what is inclusion and what is exclusion. And  although  that  error  is  not  hard  to  correct,  it  has  great  consequences. Therefore we must clear it away, right at the beginning.We start, simply, by giving some definitions of this problem.I will first give you an example of how people ordinarily imagine ‘inclusion and exclusion’ is carried out. Religionists (notice  that  I  do  not  say  ‘spiritual  people’),  for  example,  attempt to avoid things which are unpleasant, undesirable, and which are not permitted by their religion. This is exclusion: ‘I will exclude myself from the world. I will exclude myself.</p>
+            </div>
         </div>
     );
 };

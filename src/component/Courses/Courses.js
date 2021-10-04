@@ -1,5 +1,5 @@
 import React from 'react';
-import { Card } from 'react-bootstrap';
+import { Button, Card } from 'react-bootstrap';
 
 const Courses = (props) => {
 
@@ -12,10 +12,11 @@ const Courses = (props) => {
                 <Card style={{ width: '18rem' }}>
                     <Card.Img variant="top" src={picture} />
                     <Card.Body>
-                        <Card.Title>Name: {name}</Card.Title>
+                        <Card.Title>Course Name: {name}</Card.Title>
                         <Card.Text>
-                            <p>price: {price}</p>
+                            <p>price: ${price}</p>
                         </Card.Text>
+                        <Button variant="dark">visit</Button>
                     </Card.Body>
                 </Card>
             </div>

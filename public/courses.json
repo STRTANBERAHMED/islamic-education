@@ -24,27 +24,27 @@
         "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUWX6mwrAUQ7mfSMVfw5Lrd4_Tg50frDNKTQ&usqp=CAU"
     },
     {
+        "_id": "615a10f9bbeedaaac7609e22",
+        "name": "Pearls of Islam",
+        "price": 300,
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPgxjiY53Mhsw8g_TgR98LBEBbzuVz-hrxFA&usqp=CAU"
+    },
+    {
         "_id": "615a10f90481fbfa0191112b",
         "name": "Islamic Culture",
         "price": 326,
-        "picture": "https://i.guim.co.uk/img/media/8be4095b60f796d8b4094876e5e6bb642c22bcc1/0_134_4992_2994/master/4992.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=796c815a14bb178b92004ff5677e5d45"
+        "picture": "https://www.islamicity.org/global/images/photo/IC-Articles/islamiculture__1024x588.JPG"
     },
     {
         "_id": "615a10f9d06f59c6b9dab069",
         "name": "Hadith",
         "price": 293,
-        "picture": "https://i.guim.co.uk/img/media/8be4095b60f796d8b4094876e5e6bb642c22bcc1/0_134_4992_2994/master/4992.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=796c815a14bb178b92004ff5677e5d45"
+        "picture": "https://www.wisemuslimwomen.org/wp-content/uploads/2020/08/H-is-for-Hadith-1-1024x1024.png"
     },
     {
         "_id": "615a10f9e8637c1e21c2940d",
-        "name": "Tarbiyati",
+        "name": "Islamic Psychology",
         "price": 533,
-        "picture": "https://i.guim.co.uk/img/media/8be4095b60f796d8b4094876e5e6bb642c22bcc1/0_134_4992_2994/master/4992.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=796c815a14bb178b92004ff5677e5d45"
-    },
-    {
-        "_id": "615a10f9bbeedaaac7609e22",
-        "name": "Pearls of Islam",
-        "price": 300,
-        "picture": "https://i.guim.co.uk/img/media/8be4095b60f796d8b4094876e5e6bb642c22bcc1/0_134_4992_2994/master/4992.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=796c815a14bb178b92004ff5677e5d45"
+        "picture": "https://i.pinimg.com/736x/24/8d/30/248d30d3fcf3d6ead0f301f3b6ff3cc6--islamic-studies-university.jpg"
     }
 ]

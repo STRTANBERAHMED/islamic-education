@@ -1,13 +1,12 @@
 import React from 'react';
 import { Card } from 'react-bootstrap';
 
-const Courses = (props) => {
-
+const Items = (props) => {
     // destructuring
-    const { name, price, picture } = props.course || {}
+    const { name, price, picture } = props.item || {}
 
     return (
-        <div className="col-md-3 mt-5 mx-auto">
+        <div className="col-md-3 mx-auto">
             <div>
                 <Card style={{ width: '18rem' }}>
                     <Card.Img variant="top" src={picture} />
@@ -23,4 +22,4 @@ const Courses = (props) => {
     );
 };
 
-export default Courses;
+export default Items;

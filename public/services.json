@@ -1,0 +1,26 @@
+[
+    {
+        "_id": "615a10f9ae150567181a3b64",
+        "name": "Quran",
+        "price": 677,
+        "picture": "https://funci.org/wp-content/uploads/2009/02/Coran_cerrado-1024x576.jpg"
+    },
+    {
+        "_id": "615a10f904c25163caef2609",
+        "name": "Aqidah",
+        "price": 129,
+        "picture": "https://www.gurupendidikan.co.id/wp-content/uploads/2019/01/Aqidah-Islam.jpg"
+    },
+    {
+        "_id": "615a10f9c0be61e8117f1d53",
+        "name": "History of Islam",
+        "price": 402,
+        "picture": "https://i0.wp.com/historyofislam.com/wp-content/uploads/2020/09/cropped-logo-purple020-07-02-12-28-30-1.png?fit=479%2C437&ssl=1"
+    },
+    {
+        "_id": "615a10f9631c9b08f0a2dd03",
+        "name": "Fiqh",
+        "price": 191,
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUWX6mwrAUQ7mfSMVfw5Lrd4_Tg50frDNKTQ&usqp=CAU"
+    }
+]
